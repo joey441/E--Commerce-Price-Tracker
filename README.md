@@ -20,10 +20,14 @@ Pandas: For efficient data structuring and CSV management.
 └── price_tracker.csv # Output: The final structured dataset (generated on first run).
 
  How to Use
+
 1.Clone the repository
+
 2.Install dependencies:
     pip install requests beautifulsoup4 pandas lxml
+
 3.Run the scraper:
   python scrapy.py
+
 4.Input the url   
 
